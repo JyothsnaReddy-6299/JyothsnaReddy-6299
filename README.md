@@ -1,46 +1,225 @@
-# Hey, I'm Jyothsna Reddy Anday 👋
 
-I’m a Computer Science undergraduate who enjoys building practical software and clean user interfaces.
+<!-- ======================================================= -->
+<!--                    INTRODUCTION                         -->
+<!-- ======================================================= -->
 
-I like turning ideas into working products using code, curiosity, and consistent improvement.
+<h1 align="center">Hey, I'm Jyothsna Reddy Anday 👋</h1>
 
----
+<h3 align="center">
+  Computer Science Engineering Undergraduate |
+  Software Developer | AI & Backend Enthusiast
+</h3>
 
-## 🚀 Tools and Technologies 
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-
----
-
-## 🧭 What I’m Focused On
-
-- Mastering data structures and algorithms
-- Writing cleaner, more readable code
-- Creating projects that are useful beyond the classroom
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=72E5B0&center=true&vCenter=true&width=650&lines=Building+Practical+Software+Solutions;Exploring+AI+%26+Backend+Engineering;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 👩‍💻 ABOUT ME
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I'm a Computer Science Engineering undergraduate passionate about software development, problem-solving, and building technology that addresses real-world challenges.
+
+- 💻 Interested in building intelligent and scalable software applications.
+- 🧠 Strengthening my problem-solving skills through Data Structures and Algorithms.
+- ⚙️ Exploring backend engineering, database systems, and application architecture.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and LLM-powered applications.
+- 🔍 Enjoy understanding how software systems work internally.
+- 🚀 Focused on writing maintainable code and developing practical engineering solutions.
+- 🎯 Working towards becoming a well-rounded Software Engineer.
 
 ---
 
-## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothsna-reddy-anday-8819903a5/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothsna.reddy1503@gmail.com)
+<h2 align="center">🛠️ TECHNOLOGY STACK</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=5" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=4" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" />
+</p>
+<p align="center">
+LLMs · NLP · AI Applications · Machine Learning
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## ✨ A Little More About Me
+## 🚀 FEATURED PROJECT
 
-I believe a good developer is not just someone who writes code, but someone who can understand a problem, design a simple solution, explain it clearly, and keep improving it.
+### PromptSQL — AI-Powered Data Intelligence Platform
 
-Currently, I’m building projects, practicing problem solving, and preparing myself for software development roles.
+<p align="center">
+  <a href="https://promptsql-frontend.onrender.com/">
+    <img src="https://img.shields.io/badge/LIVE%20APPLICATION-Visit%20PromptSQL-00A67E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/JyothsnaReddy-6299/PromptSQL">
+    <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**PromptSQL** is an AI-powered data intelligence platform that enables users to interact with structured datasets using natural language instead of manually writing SQL queries.
+
+#### Key Features
+
+- **Natural Language to SQL:** Convert user questions into executable SQL queries.
+- **Schema-Aware Query Generation:** Understand database structures and generate context-aware queries.
+- **Intelligent Joins:** Identify table relationships and handle ambiguous join paths.
+- **AI-Powered Analytics:** Generate business metrics, summaries, and analytical insights.
+- **Data Modification:** Modify database records through controlled natural-language workflows.
+- **Data Cleaning:** Explore and clean uploaded datasets.
+- **Query Security:** Validate generated SQL and enforce read-query execution safeguards.
+- **Audit & Undo:** Track modifications and support controlled recovery workflows.
+- **Data Export:** Export query results for further analysis.
+
+#### Technology Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,react,typescript,docker" />
+</p>
+
+**Engineering Focus:** LLM integration · SQL generation · Database management · Query validation · Data integrity · Backend security.
+
+---
+
+## 🧠 ENGINEERING INTERESTS
+
+| Area | Topics |
+|---|---|
+| Software Engineering | Clean Code, Design Patterns, Application Architecture |
+| Backend Development | REST APIs, Authentication, API Design |
+| Database Engineering | SQL, Indexing, Transactions, Query Optimization |
+| Artificial Intelligence | LLMs, NLP, AI-powered Applications |
+| Distributed Systems | Synchronization, Concurrency, Conflict Resolution |
+| Problem Solving | Algorithms, Data Structures, Complexity Analysis |
+
+---
+
+## 📚 COMPUTER SCIENCE FUNDAMENTALS
+
+Currently building a strong foundation in:
+
+- **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Hashing, Dynamic Programming.
+- **Operating Systems:** Processes, Threads, CPU Scheduling, Synchronization, Deadlocks, Memory Management.
+- **Database Management Systems:** Normalization, Transactions, Indexing, SQL, Query Processing.
+- **Computer Networks:** TCP/IP, HTTP/HTTPS, DNS, Network Protocols.
+- **Object-Oriented Programming:** Encapsulation, Inheritance, Polymorphism, Abstraction, SOLID Principles.
+
+---
+
+## 🎯 CURRENT FOCUS
+
+- Solving DSA problems using Python.
+- Improving algorithmic thinking and problem-solving efficiency.
+- Exploring advanced backend engineering concepts.
+- Learning system design and database internals.
+- Building practical AI-powered applications.
+- Improving software architecture and code quality.
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JyothsnaReddy-6299&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyothsnaReddy-6299&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## ⚡ CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JyothsnaReddy-6299&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JyothsnaReddy-6299/JyothsnaReddy-6299/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 💡 DEVELOPMENT PHILOSOPHY
+
+<p align="center">
+  <i>"Build to understand. Solve to improve. Iterate to engineer better solutions."</i>
+</p>
+
+I believe software engineering is more than writing code. It involves understanding problems, making thoughtful technical decisions, designing reliable systems, and continuously improving solutions.
+
+---
+
+## 🤝 LET'S CONNECT
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JyothsnaReddy-6299">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's build something meaningful. 🚀</b>
+</p>
