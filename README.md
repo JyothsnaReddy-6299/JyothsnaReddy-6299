@@ -31,69 +31,68 @@ I'm a Computer Science Engineering undergraduate passionate about software devel
 ---
 
 
+
 <h2 align="center">🛠️ TECHNOLOGY STACK</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=5" />
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
+### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
-</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">⚙️ Backend Development</h3>
-<p align="center">
+### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=4" />
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4" />
-</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🔧 Tools & Platforms</h3>
-<p align="center">
+### 🔧 Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5" />
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
-<p align="center">
+### 🤖 AI & Machine Learning
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" />
-</p>
-<p align="center">
-LLMs · NLP · AI Applications · Machine Learning
-</p>
+
+<br/>
+LLMs · NLP · AI Applications
 
 </td>
 </tr>
 </table>
+
+</div>
 
 
 ---
@@ -184,14 +183,6 @@ Currently building a strong foundation in:
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JyothsnaReddy-6299&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JyothsnaReddy-6299/JyothsnaReddy-6299/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
