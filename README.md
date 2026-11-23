@@ -200,7 +200,7 @@ I believe software engineering is more than writing code. It involves understand
 ## 🤝 LET'S CONNECT
 
 <p align="center">
-  <a href="www.linkedin.com/in/jyothsna15">
+  <a href="https://www.linkedin.com/in/jyothsna15/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jyothsna.reddy1503@gamil.com">
